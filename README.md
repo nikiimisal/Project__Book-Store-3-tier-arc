@@ -117,7 +117,7 @@ git — version
 
 #### Clone repository
 ```bash
-git clone https://github.com/learnItRightWay01/react-node-mysql-app.git
+git clone https://github.com/nikiimisal/Project__Book-Store-3-tier-arc.git
 ```
 
 #### Install node.js
