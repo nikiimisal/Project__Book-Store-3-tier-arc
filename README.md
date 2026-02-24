@@ -1,6 +1,6 @@
 
 This project is a full-stack web application built using React js for the frontend, Express js for the backend, and MySQL as the database. The application is designed to demonstrate the implementation of a 3-tier architecture, where the presentation layer (React js), application logic layer (Express js), and data layer (MySQL) are separated into distinct tiers.<br>
->if you wan see video presentation[click here](https://youtu.be/BF34HiyF5SA)
+>if you wan see video presentation[click here:-](https://youtu.be/BF34HiyF5SA)
 
 
 ## User Interface Screenshots 
@@ -12,6 +12,19 @@ This project is a full-stack web application built using React js for the fronte
 
 #### Authors
 ![Dashboard](./frontend/public/ss/authors.png)
+
+
+<p align="center">
+  <img src="./frontend/public/ss/dashboard.png" width="500" alt="Initialize Repository Screenshot">
+</p>
+
+<p align="center">
+  <img src="./frontend/public/ss/books.png" width="500" alt="Initialize Repository Screenshot">
+</p>
+
+<p align="center">
+  <img src="./frontend/public/ss/authors.png" width="500" alt="Initialize Repository Screenshot">
+</p>
 
 
 ## Connecting to private EC2 instance via a bastion host
