@@ -4,24 +4,19 @@ This project is a full-stack web application built using React js for the fronte
 
 
 ## User Interface Screenshots 
-#### Dashboard
-![Dashboard](./frontend/public/ss/dashboard.png)
 
-#### Books
-![Dashboard](./frontend/public/ss/books.png)
-
-#### Authors
-![Dashboard](./frontend/public/ss/authors.png)
-
-
+### Dashboard
 <p align="center">
   <img src="./frontend/public/ss/dashboard.png" width="500" alt="Initialize Repository Screenshot">
 </p>
 
+### Books
 <p align="center">
   <img src="./frontend/public/ss/books.png" width="500" alt="Initialize Repository Screenshot">
 </p>
 
+
+### Authors
 <p align="center">
   <img src="./frontend/public/ss/authors.png" width="500" alt="Initialize Repository Screenshot">
 </p>
